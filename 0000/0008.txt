@@ -29,13 +29,13 @@ My video
 Other videos
 あき
 \xf000Ā\x0001\x0000　のきろくをけす
-ランキングでさがす
+Search by Ranking
 データをおくる
 さいしん３０けん
-くわしくさがす
-ナンバーでさがす
+Search by Details
+Search by Number
 しせつでさがす
-ポケモンでさがす
+Search by Pokémon
 Search by Facility
 Search by Pokémon
 Search by Location
@@ -45,7 +45,7 @@ Send
 Choose a Pokémon
 \xf000Ā\x0001\x0000　の　しゃしん\xfffe\xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
-しゃしん
+Photo
 Send Box Data
 View Box Data
 Favorite
@@ -54,7 +54,7 @@ Cute
 Suggested
 Fun
 Select
-ボックス
+Box
 くわしくみる
 ア
 カ
@@ -84,8 +84,8 @@ Colosseum
 Battle Frontier
 Save
 View Battle\xfffeVideo
-バトルビデオ
-バトルビデオ\xfffeさいしん３０けん
+Battle Video
+Battle Video\xfffeさいしん３０けん
 Top-Ranked Battle Videos\xfffeColosseum
 Top-Ranked Battle Videos\xfffeBattle Frontier
 けんさくした　バトルビデオ\xfffeいちらん
@@ -128,37 +128,37 @@ Battle Points:
 \xf000봂\x0000Double Battle
 \xf000봂\x0000Multi Battle
 \xf000봂\x0000Wi-Fi Battle
-\xf000봂\x0000バトルサブウェイ
-\xf000봂\x0000スーパーシングルトレイン
-\xf000봂\x0000スーパーダブルトレイン
-\xf000봂\x0000スーパーマルチトレイン
+\xf000봂\x0000Battle Subway
+\xf000봂\x0000Super Single-train
+\xf000봂\x0000Super Double-train
+\xf000봂\x0000Super Multi-train
 みたい　せいせきを　えらんでください
 Wins:
 Total:
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000 Battles
-トレーナーとマルチ
+Multi-trainer
 ともだちとマルチ
-ランク
+Rank
 げんざいの　きろく
 \xf000봂\x0000Ｗｉ－Ｆｉトレイン　せいせき
-げんざい：
-\xf000봂\x0000\xf000Ā\x0001\x0000　の　レーティング
-\xf000봂\x0000レーティングモード　せいせき
-\xf000봂\x0000フリーモード　せいせき
+Current：
+\xf000봂\x0000\xf000Ā\x0001\x0000　の　Rating
+\xf000봂\x0000Rating Mode　せいせき
+\xf000봂\x0000Free Mode　せいせき
 \xf000봃\x0001\x0000Win
 \xf000봃\x0001\x0000Lose
-\xf000봃\x0001\x0000シングル：
-\xf000봃\x0001\x0000ダブル：
-\xf000봃\x0001\x0000トリプル：
-\xf000봃\x0001\x0000ローテーション：
-\xf000봃\x0001\x0000シューター：
+\xf000봃\x0001\x0000Single：
+\xf000봃\x0001\x0000Double：
+\xf000봃\x0001\x0000Triple：
+\xf000봃\x0001\x0000Rotation：
+\xf000봃\x0001\x0000Shooter：
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
 \xf000봃\x0001\x0000Rating
-\xf000봂\x0000はい
-\xf000봂\x0000いいえ
+\xf000봂\x0000Yes
+\xf000봂\x0000No
 Yes
 No
 Ｗｉ－Ｆｉコネクションから\xfffeせつだん　しても　よろしいですか？
