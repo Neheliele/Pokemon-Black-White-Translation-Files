@@ -114,10 +114,10 @@ Griseous Orb
 ???
 ???
 ???
-Akuakasetto
-Inazumakasetto
-Fureizukasetto
-Furiizukasetto
+Aqua Cassette
+Lightning Cassette
+Blaze Cassette
+Freeze Cassette
 ???
 ???
 ???
@@ -563,33 +563,33 @@ Dragon Jewel
 Dark Jewel
 Steel Jewel
 Normal Jewel
-Tairyokunohane
-Kinryokunohane
-Teikounohane
-Chiryokunohane
-Seishinnohane
-Shunpatsunohane
-Kireinahane
-Futanokaseki
-Hanenokaseki
+Strength Wing
+Power Wing
+Resistance Wing
+Wisdom Wing
+Mind Wing
+Instant Wing
+Beautiful Wing
+Lid Fossil
+Wing Fossil
 Liberty Ticket
-Derudama
+Deru Ball
 Dream Ball
-Poke Jarashi
-Guzzukeesu
-Doragonnohone
+Poké Toy
+Goods Case
+Dragon Bone
 Kaorukinoko
 Dekaikinnotama
-Odangoshinju
+Round Pearl
 Suiseinokakera
-Kodainodouka
-Kodainoginka
-Kodainokinka
-Kodainotsubo
-Kodainoudewa
-Kodainosekizou
-Kodainooukan
-Hiun Ice
+Ancient Bronze Coin
+Ancient Silver Coin
+Anicent Gold Coin
+Ancient Vase
+Ancient Bracelet
+Ancient Statue
+Ancient Crown
+Hiun Ice-cream
 Critical Cut 2
 Speeder 2
 SP Up 2
